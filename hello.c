@@ -1,5 +1,5 @@
 	#include<stdio.h>
-
+	// Comentário teste a ser apagado
 	int main(){
 		int ret;
 		ret = soma(2, 3);
